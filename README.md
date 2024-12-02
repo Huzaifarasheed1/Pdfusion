@@ -22,7 +22,7 @@ This Streamlit application allows users to upload multiple PDF documents and ask
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Pdfusion.git
+git clone https://github.com/Huzaifarasheed1/Pdfusion.git
 cd Pdfusion
 ```
 
